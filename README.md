@@ -1,18 +1,34 @@
 # Express.js Note Taker
 
-## Description: This application is designed to allow the user to create and save notes. 
+## Table of Contents
 
-## Installation: Follow the Live URL (below). Begin by clicking the link to the notes page. 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Images](#images)
+- [LINKS](#LINKS)
 
-## Usage: Once you have successfully loaded the notes page, you will see empty fields to create notes. As you enter a title and text into the note field, you will be presented with a "Save Note" button as well as a "Clear Form" button. Once you save your note, you will see it populate on the left side of the page, by list. If you click on a saved note from the left column, it will appear in the right column and a "New Note" button will appear that you can use to create a new note. 
+## Description
+This application is designed to allow the user to create and save notes. 
 
-## Test: Testing the application can be done by using the terminal and Node.js
+## Installation 
+Follow the Live URL (below). Begin by clicking the link to the notes page. 
 
-## Credits: Starter code given by Instructor
+## Usage
+Once you have successfully loaded the notes page, you will see empty fields to create notes. As you enter a title and text into the note field, you will be presented with a "Save Note" button as well as a "Clear Form" button. Once you save your note, you will see it populate on the left side of the page, by list. If you click on a saved note from the left column, it will appear in the right column and a "New Note" button will appear that you can use to create a new note. 
 
-## Author: Stacy Herbert
+## Test
+Testing the application can be done by using the terminal and Node.js
 
-## IMAGES: 
+## Credits
+Starter code given by Instructor
+
+## Author
+Stacy Herbert
+
+## Images
+
 
 # _______________________________________________________________________________________
 
