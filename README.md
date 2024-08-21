@@ -28,7 +28,7 @@ Starter code given by Instructor
 Stacy Herbert
 
 ## Images
-![alt text](public\assets\images\notes-img.png)
+<img src="public\assets\images\notes-img.png"/>
 
 # __________________________________________________________________________________
 
