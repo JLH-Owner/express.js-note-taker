@@ -37,6 +37,6 @@ Stacy Herbert
 ## GitHub Repository: 
 https://github.com/JLH-Owner/express.js-note-taker
 
-## Live URL 
-https://jlh-owner.github.io/express.js-note-taker/
+## Localhost 
+http://localhost:3001
 
