@@ -69,10 +69,3 @@ body {
   font-size: 1.1rem;
   cursor: pointer;
 }
-
-.list-container .list-group-item {
-  border-left: none;
-  border-right: none;
-  padding: 20px;
-  cursor: pointer;
-}
